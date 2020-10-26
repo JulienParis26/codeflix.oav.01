@@ -1,0 +1,1 @@
+You have to create a node program that take a configuration file as an argument and generate a json one.
